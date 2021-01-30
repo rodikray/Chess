@@ -17,7 +17,7 @@ public class DesktopLauncher {
 		config_dek.y = 0;
 		config_dek.width = 800;
 		config_dek.height = 480;
-		config_dek.resizable = true;
+		config_dek.resizable = true; // lol
 
 		config_dek.pauseWhenBackground = true;
 
